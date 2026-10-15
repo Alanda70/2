@@ -9,7 +9,7 @@ const stack = createNativeStackNavigator();
 
 export const App = () => {
 
-// view -----------------------
+// view -------------------------
   return (
     <NavigationContainer>
       <stack.Navigator 
